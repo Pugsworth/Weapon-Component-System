@@ -1,7 +1,7 @@
 # Composed Weapons
 
 ## About
-I'm mostly just messing around with the concept of a composed weapon system similar to something like in the game [Borderlands](https://en.wikipedia.org/wiki/Borderlands_(franchise)).
+I'm mostly just messing around with the concept of a composed weapon system similar to something like in the game [Borderlands](https://en.wikipedia.org/wiki/Borderlands_(series)).
 I'm writing it in C# since it's a more neutral language compared to something like Rust or Kotlin.
 
 
