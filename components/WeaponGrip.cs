@@ -1,0 +1,6 @@
+namespace ComposedWeaponPlanning
+{
+    class WeaponGrip
+    {
+    }
+}
